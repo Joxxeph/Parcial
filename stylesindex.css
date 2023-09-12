@@ -1,0 +1,39 @@
+
+body {
+    margin: 0px;
+    font-family: 'Josefin+Sans', Arial, Helvetica, sans-serif;
+}
+
+.nav-principal {
+    background-color: rgb(92, 92, 88);
+    padding: 5px;
+    display: flex;
+
+}
+
+nav {
+
+    display: block;
+    height: 30px;
+    text-align: center;
+
+}
+
+nav a {
+    text-decoration: none;
+    justify-content: space-evenly;
+    padding: 5px;
+    margin: 10px 10px;
+    color: beige;
+}
+
+.carouselExampleIndicators {
+    height: 45%;
+    margin: 20px 0px;
+}
+
+.texto-botones {
+    height: 45%;
+    margin: 20px 15px;
+}
+
